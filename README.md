@@ -24,15 +24,15 @@
 
 - ♟️ **Favorite Games:**
 
- - `Blue Archive (蔚蓝档案)` – Love the music & art style!
+  - `Blue Archive (蔚蓝档案)` – Love the music & art style!
 
- - `Phigros` – The music game which is    especially popular in China 🎵
+  - `Phigros` – The music game which is    especially popular in China 🎵
 
- - `Minecraft` – I started playing this game when I was four years old！
+  - `Minecraft` – I started playing this game when I was four years old！
 
 - 💡 **Hobbies**
 
- - Only programming…
+  - Only programming…
 
 ### 📫 How To Reach Me
 
