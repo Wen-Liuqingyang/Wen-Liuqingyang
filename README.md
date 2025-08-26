@@ -37,7 +37,7 @@
 ### 📫 How To Reach Me
 
 - ✉️ Public E-Mail: wen-liuqingyang@outlook.com
-- 🖥 bilibili: [文柳轻扬](https://space.bilibili.com/3493118139697355?spm_id_from=333.1007.0.0)
+- 🖥 bilibili: [文柳轻扬](https://b23.tv/4zeJdlm)
 
 <!--
 ### ☕️ Buy Me A Coffee～
