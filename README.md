@@ -5,7 +5,43 @@
 
 ### 💁🏻‍♂️ About Me
 
+- 🎓 A high school student who loves programming.
+- 🇨🇳 Member of the Communist Youth League of China，committed to contributing skills to community-driven projects. 
 
+### 🔭 Currently Learning & Exploring:
+
+- C# & Avalonia
+- C++
+- Git
+- Markdown
+
+### 📦 Dream Projects
+
+- Powerful software with many features.
+- Music games with clean code.
+
+### ✨ Fun Fact
+
+- ♟️ **Favorite Games:**
+
+  - `Blue Archive (蔚蓝档案)` – Love the music & art style!
+
+  - `Phigros` – The music game which is    especially popular in China 🎵
+
+  - `Minecraft` – I started playing this game when I was four years old！
+
+- 💡 **Hobbies**
+
+  - Only programming…
+
+### 📫 How To Reach Me
+
+- ✉️ Public E-Mail: wen-liuqingyang@outlook.com
+- 🖥 bilibili: [文柳轻扬](https://space.bilibili.com/3493118139697355?spm_id_from=333.1007.0.0)
+
+<!--
+### ☕️ Buy Me A Coffee～
+-->
 
 <!--
 **Wen-Liuqingyang/Wen-Liuqingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
